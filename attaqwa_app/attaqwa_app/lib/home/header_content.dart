@@ -17,7 +17,7 @@ class HeaderContent extends StatelessWidget {
                     begin: Alignment.topRight,
                     end: Alignment.bottomLeft,
                     colors: [
-                      Colors.teal[300],
+                      Colors.pink[200],
                       darkToscaColor
                     ],
                   ),
@@ -30,7 +30,7 @@ class HeaderContent extends StatelessWidget {
               children: <Widget>[
                 Container(
                   child: Padding(
-                    padding: EdgeInsets.all(1.0),
+                    padding: EdgeInsets.all(2.0),
                     child: Image(
                       image : AssetImage('assets/img/icon.png'), width : 100.0),
                   ),
@@ -54,7 +54,7 @@ class HeaderContent extends StatelessWidget {
             ),
           ),
           Container(
-              margin: EdgeInsets.only(top: 270.0),
+              margin: EdgeInsets.only(top: 250.0),
               child: MenuContent())
         ],
       );

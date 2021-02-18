@@ -19,7 +19,7 @@ class MenuContent extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.start,
             children: <Widget>[
               Text('Pilih Amal Ibadah',
-              style: styleTitle, textAlign: TextAlign.left)
+              style: styleTitle, textAlign: TextAlign.left,  )
             ],
           ),
           ),
@@ -32,17 +32,20 @@ class MenuContent extends StatelessWidget {
                 Expanded(
                     flex: 3,
                     child: Card(
+                      color: Colors.pink[100],
                       elevation: 2,
                       child: FlatButton(
                           onPressed: (){
                             Navigator.push(context,
-                                PageRouteBuilder(transitionDuration: Duration(seconds: 2),
+                                PageRouteBuilder(
+                                    transitionDuration: Duration(seconds: 2),
                                 transitionsBuilder:
                                 (context,animation,animationTime,child){
                                   animation = CurvedAnimation(
                                     parent: animation,
                                     curve: Curves.elasticOut);
-                                  return ScaleTransition(scale: animation,
+                                  return ScaleTransition(
+                                    scale: animation,
                                   alignment: Alignment.center,
                                   child: child,);
                                 },
@@ -58,6 +61,14 @@ class MenuContent extends StatelessWidget {
                                 padding: EdgeInsets.all(8.0),
                                 child: Hero(
                                   tag: 'Quran Quh',
+                                  child: Image(image: AssetImage('assets/img/quran.png')
+                                  ),
+                                ),
+                              ),
+                              Padding(
+                                padding: EdgeInsets.all(8.0),
+                                child: Hero(
+                                  tag: 'Quran kuh',
                                   child: Image(image: AssetImage('assets/img/quran.png')
                                   ),
                                 ),
@@ -87,6 +98,7 @@ class MenuContent extends StatelessWidget {
                 Expanded(
                   flex: 3,
                   child: Card(
+                    color: Colors.pink[100],
                     elevation: 2,
                     child: FlatButton(
                       onPressed: (){
@@ -142,6 +154,7 @@ class MenuContent extends StatelessWidget {
                 Expanded(
                   flex: 3,
                   child: Card(
+                    color: Colors.pink[100],
                     elevation: 2,
                     child: FlatButton(
                       onPressed: (){
@@ -181,7 +194,7 @@ class MenuContent extends StatelessWidget {
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: <Widget>[
-                                  Text('Sejarah Nai', style: cardTitle,),
+                                  Text('Sejarah Nabi', style: cardTitle,),
                                   Container(margin: EdgeInsets.only(top: 4.0),
                                       child: Text('25 Sejarah Nabi Kita',
                                           style: tagLine))
@@ -197,6 +210,7 @@ class MenuContent extends StatelessWidget {
                 Expanded(
                   flex: 3,
                   child: Card(
+                    color: Colors.pink[100],
                     elevation: 2,
                     child: FlatButton(
                       onPressed: (){
