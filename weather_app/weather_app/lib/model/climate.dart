@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Climate{
-  int temparatur;
+  int temparature;
   String cityName;
   String country;
   String main;

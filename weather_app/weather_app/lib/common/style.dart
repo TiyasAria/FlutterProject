@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const TemplateTextStyle = TextStyle(fontFamily: 'Quicksand', fontSize: 80.0);
+const TemperatureTextStyle = TextStyle(fontFamily: 'Quicksand', fontSize: 80.0);
 const DateTextStyle = TextStyle(fontFamily: 'Quicksand', fontSize: 25.0);
 const DescriptionTextStyle = TextStyle(fontFamily: 'Quicksand', fontSize: 30.0);
 const LocationTextStyle = TextStyle(fontFamily: 'Quicksand', fontSize: 15.0);
