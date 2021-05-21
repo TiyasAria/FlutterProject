@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89e4f780-2d40-46e2-82f3-48367fd030ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/assets/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/bloc/furnitur_store_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/models/furnitur_products.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/provider/furnitur_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/screens/furnitur_store_cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/screens/furnitur_store_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/screens/furnitur_store_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/utils/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../furniturin_app/furniturin_app/lib/widgets/stragged_dual_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/icons/back_arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/icons/heart-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/icons/icon_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/icons/icon_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/icons/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/body_lotion_romansa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/body_scrub_pomegrante.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/brightening_shower_crub_mango.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/creamacneday1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/creamacnenight1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/fragrance_conditioner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/hairshampoo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/logo_scarlett.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/serum_brightly_ever_after.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/serumacne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/assets/image/whitening_facial_wash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/bloc/scarlett_store_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/model/scarlett_products.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/provider/scarlett_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/screens/favorite.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/screens/scarlett_store_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/screens/scarlett_store_favorite.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/screens/scarlett_store_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/utils/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scarlett_app/scarlett_app/lib/widgets/stragged_dual_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/kotlin/com/idn/smart/tiyas/tourism_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/arfak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/aset_sangiran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/baluran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/batik_solo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/gandrung_sewu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/gong_solo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/kawah_ijen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/kepulauan_derawan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/lava_tour.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/lembah_aliem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/lombok.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/payung_fanstasi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/pulai_kei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/rinjani.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/rowo_jombor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/assets/img/sangiran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/detail_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/dummy.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/favorite.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/lib/tourisms.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tourism_app/test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1spv1A3TpgYpZ2FbFHgt7gMPKwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89e4f780-2d40-46e2-82f3-48367fd030ce" name="Default Changelist" comment="" />
+      <created>1621582127262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621582127262</updated>
+    </task>
+    <servers />
+  </component>
+</project>
