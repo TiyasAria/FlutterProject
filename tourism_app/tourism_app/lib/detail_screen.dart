@@ -23,7 +23,6 @@ class DetailScreen extends StatelessWidget {
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: <Widget>[
-
                         IconButton(
                             icon: Icon(Icons.arrow_back),
                             onPressed:(){

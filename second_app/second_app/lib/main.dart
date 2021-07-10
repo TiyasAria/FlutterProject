@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:second_app/view/home_screen.dart';
+import 'package:second_app/view/home_page.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -13,12 +14,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-
-        primarySwatch: Colors.blue,
-
-        visualDensity: VisualDensity.adaptivePlatformDensity,
+        textTheme: Google
       ),
-      home: HomeScreen(),
+      home: HomePage(),
     );
   }
 }

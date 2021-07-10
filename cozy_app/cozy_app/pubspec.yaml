@@ -1,4 +1,4 @@
-name: second_app
+name: cozy_app
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -28,8 +28,13 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  google_fonts : ^1.1.1
-
+  google_fonts: ^1.1.1
+  url_launcher: ^5.7.10
+  provider: ^4.3.3
+  http: ^0.12.1
+  bloc: ^6.1.2
+  persistent_bottom_nav_bar: ^3.1.0
+  flutter_launcher_icons: ^0.8.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -48,6 +53,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - assets/
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

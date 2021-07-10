@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89e4f780-2d40-46e2-82f3-48367fd030ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/model/citycard.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/model/recommend.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/pages/detail_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/pages/home.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/pages/splashscreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/theme.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/widget/bottom_navbar_item.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/widget/citycard.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/widget/favorite.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/widget/recommend_card.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cozy_app/cozy_app/lib/widget/tipscard.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second_app/second_app/assets/photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second_app/second_app/lib/view/home_page.dart" afterDir="false" />
+    <list default="true" id="67201efe-5512-47b3-8a08-1a46a5cbb44d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/.metadata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/README.md" beforeDir="false" />
@@ -102,14 +89,6 @@
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/pubspec.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/pubspec.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scarlett_app/scarlett_app/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../second_app/.idea/second_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../second_app/.idea/second_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../second_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../second_app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../second_app/second_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../second_app/second_app/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../second_app/second_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../second_app/second_app/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tourism_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tourism_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tourism_app/lib/detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/tourism_app/lib/detail_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tourism_app/lib/favorite.dart" beforeDir="false" afterPath="$PROJECT_DIR$/tourism_app/lib/favorite.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +98,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1spv1A3TpgYpZ2FbFHgt7gMPKwZ" />
+  <component name="ProjectId" id="1uQC3VxeV5AgjmS2SyKr6Udjk2q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -130,7 +109,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../second_app" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -139,12 +118,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89e4f780-2d40-46e2-82f3-48367fd030ce" name="Default Changelist" comment="" />
-      <created>1621582127262</created>
+      <changelist id="67201efe-5512-47b3-8a08-1a46a5cbb44d" name="Default Changelist" comment="" />
+      <created>1624588226721</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621582127262</updated>
+      <updated>1624588226721</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="135" key="FileChooserDialogImpl" timestamp="1624588329993">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1624588329993" />
   </component>
 </project>
