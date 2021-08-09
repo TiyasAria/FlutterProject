@@ -8,6 +8,7 @@ class DetailScreen extends StatelessWidget {
   final Tourisms tourisms;
 
   const DetailScreen({@required this.tourisms});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

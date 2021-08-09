@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d8887c1-c59b-40c6-9953-e6ad987279c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/kotlin/com/example/plant_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/back_arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/flower.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/heart-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/icon_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/icon_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/icon_4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/sun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/icons/user-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/bottom_img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/bottom_img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/image_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/image_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/image_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/img_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/components/my_bottom_nav_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/constants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/details/components/body.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/details/components/icon_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/details/components/image_and_icons.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/details/components/title_and_price.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/details/details_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/components/body.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/components/featurred_plants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/components/header_with_seachbox.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/components/recomend_plants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/components/title_with_more_bbtn.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/lib/screens/home/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/plant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plant-App-Flutter-UI-master/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tourism_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tourism_app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tourism_app/tourism_app/lib/detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../tourism_app/tourism_app/lib/detail_screen.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vy8TlNAQi7xrhhHtHSa2NJTFSI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8887c1-c59b-40c6-9953-e6ad987279c1" name="Default Changelist" comment="" />
+      <created>1627522977980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627522977980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627523238900">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1627523238900" />
+    <state x="369" y="170" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1627523235733">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="369" y="170" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1627523235733" />
+  </component>
+</project>
