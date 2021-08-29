@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d912378f-70f3-488e-a04b-84a471d7ba1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_pagi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_setelah_sholat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_sore.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/detail_doa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/doa_harian_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_habis_sholat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_pagi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_pagi_petang.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_petang.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_setiap_saat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/auth/auth_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/auth/auth_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/domainBloc/model/login_request.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/domainBloc/model/login_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/infrastructureBloc/auth/auth_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/dashboard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/first_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/home_dribble.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/second_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/list/grid_file.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/list/menu_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentationBloc/auth/sign_in.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentationBloc/home/home_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/provider/example_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/widget/card_information_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_app/lib/widget/list_item_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/model_doa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/model_doa.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wtaWSKg4Bp2NVX3joeH4sKFmlP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d912378f-70f3-488e-a04b-84a471d7ba1b" name="Default Changelist" comment="" />
+      <created>1629280369888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629280369888</updated>
+    </task>
+    <servers />
+  </component>
+</project>

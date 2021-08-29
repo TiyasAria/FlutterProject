@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197513460709",
+    "project_id": "flutterfirebase-8fa56",
+    "storage_bucket": "flutterfirebase-8fa56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197513460709:android:497e5010d937b5e0f00d0c",
+        "android_client_info": {
+          "package_name": "com.idn.smart.tiyas.news_app_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197513460709-9pbvhbdoe4hk3ueempp80l9ipel34fk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDwMh0SPIzSFC3mEzmHuRAWWC00ENQVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197513460709-9pbvhbdoe4hk3ueempp80l9ipel34fk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

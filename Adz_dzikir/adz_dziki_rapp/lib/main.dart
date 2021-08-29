@@ -1,3 +1,5 @@
+
+import 'package:adz_dziki_rapp/page/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,7 +11,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      debugShowCheckedModeBanner: false,
+      home: HomeScreen(),
     );
   }
 }

@@ -30,3 +30,13 @@ TextStyle orangePoppins = GoogleFonts.poppins(
   fontWeight: FontWeight.w500,
   color: orangeColor,
 );
+
+TextStyle purplePoppins = GoogleFonts.poppins(
+  fontWeight: FontWeight.w500,
+  color: purpleColor,
+);
+
+TextStyle whitePoppins = GoogleFonts.poppins(
+  fontWeight: FontWeight.w500,
+  color: Colors.white,
+);

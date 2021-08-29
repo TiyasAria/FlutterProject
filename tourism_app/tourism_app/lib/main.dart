@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-
       //untuk menghilangkan banner flutter biru-birunya
       title: 'Tourism',
       theme: ThemeData.dark(),
