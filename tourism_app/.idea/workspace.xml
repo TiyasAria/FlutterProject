@@ -2,129 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89e4f780-2d40-46e2-82f3-48367fd030ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_pagi.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_setelah_sholat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/dzikir_sore.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/detail_doa.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/doa_harian_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_habis_sholat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_pagi.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_pagi_petang.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_petang.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/dzikir_setiap_saat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/sangiran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/home_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/tourisms.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewsApp2/news_app_2/lib/Authentication/login.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewsApp2/news_app_2/lib/Authentication/login_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewsApp2/news_app_2/lib/home_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewsApp2/news_app_2/lib/util/theme.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/assets/img_title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/auth/auth_cubit.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/auth/auth_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/profile/profile_b_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/profile/profile_b_event.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/applicationBloc/profile/profile_b_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/domainBloc/model/login_request.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/domainBloc/model/login_response.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/domainBloc/user/user_response.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/infrastructureBloc/auth/auth_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/detail_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/dashboard.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/first_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/home_dribble.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/home/second_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/list/grid_file.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentation/list/menu_list.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentationBloc/auth/sign_in.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/presentationBloc/home/home_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/provider/example_provider.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/widget/card_information_widget.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course_app/lib/widget/list_item_data.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../news_app/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../news_app/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../news_app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../news_app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/model_doa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/model/model_doa.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/page/home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/lib/theme.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adz_dzikir/adz_dziki_rapp/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/kotlin/com/idn/smart/tiyas/simple_app_state_management/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/model/cart_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/model/catalog_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/screens/cart.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/screens/catalog.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/lib/utils/commons.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simpleAppStateManagement/simple_app_state_management/test/widget_test.dart" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/arfak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/aset_sangiran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/baluran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/batik_solo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/gandrung_sewu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/gong_solo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/kawah_ijen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/kepulauan_derawan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/lava_tour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/lembah_aliem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/lombok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/payung_fanstasi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/pulai_kei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/rinjani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/rowo_jombor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/sangiran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/detail_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/favorite_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject12/first_project_12/assets/sangiran.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/tourisms.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject12/first_project_12/lib/tourisms.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tourism_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/tourism_app/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
